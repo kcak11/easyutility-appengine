@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: http://easyutility.appspot.com/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Sitemap: http://easyutility.appspot.com/sitemap.xml

@@ -1,0 +1,28 @@
+body{
+background-image:url("../../resources/graphics/bgline.png");
+background-repeat:repeat-x;
+overflow-y:hidden;
+}
+
+div.logospacer{
+width:20px;
+}
+
+#optionsTable td{
+background-color:rgb(212,219,238);
+height:50px;
+font-family:Verdana;
+text-align:center;
+cursor:pointer;
+border:1px solid rgb(242,121,11);
+}
+
+#utilTitle{
+font-family:verdana;
+}
+
+hr{
+width:99%;
+position:relative;
+left:-15px;
+}
